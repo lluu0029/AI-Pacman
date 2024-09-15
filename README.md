@@ -5,7 +5,8 @@
 Pacman finds the optimal path to the single food dot in a layout.
 This solution makes use of the A* algorithm using a Manhattan distance heuristic.
 - **Running all layouts using Windows:**
-  '''./q1a.bat
+  '''bash
+  ./q1a.bat
 - **Using command line for a chosen layout:**
   'python pacman.py -l layouts/q1a_tinyMaze.lay -p SearchAgent -a fn=q1a_solver,prob=q1a_problem --timeout=1'
 
