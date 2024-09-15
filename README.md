@@ -49,4 +49,4 @@ This solution makes use of the alpha-beta algorithm, performing an adversarial s
 python pacman.py -l layouts/q2_testClassic.lay -p Q2_Agent --timeout=30
 ```
 
-This repository is originally cloned from the `assignment1` branch of the repository at <https://github.com/ethantwills/fit3080_2024>. If there are updates to this code, please merge from here.
+This repository is originally cloned from the `assignment1` branch of the repository at <https://github.com/ethantwills/fit3080_2024>.
