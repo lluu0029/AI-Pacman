@@ -10,6 +10,7 @@ This solution makes use of the A* algorithm using a Manhattan distance heuristic
 - **Using command line for a chosen layout:**
 ```bash
 python pacman.py -l layouts/q1a_tinyMaze.lay -p SearchAgent -a fn=q1a_solver,prob=q1a_problem --timeout=1
+```
 
 ### Q1b Shortest path to the nearest food dot
 Pacman finds the optimal path to the nearest food dot when there are multiple in a layout.
