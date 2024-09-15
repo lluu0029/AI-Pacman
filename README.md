@@ -30,7 +30,7 @@ Pacman finds the optimal path to eat all the food dots in a layout.
 This solution makes use of the A* algorithm, with a weighted heuristic taking into account the distance to the closest goal, sum of distances to all remaining food dots and the number of remaining food dots.
 - **Running all layouts using Windows:**
 ```bash
-  ./q1c.bat'
+  ./q1c.bat
 ```
 - **Using command line for a chosen layout:**
 ```bash
